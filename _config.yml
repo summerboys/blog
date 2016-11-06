@@ -3,10 +3,10 @@ title: Summer
 SEOTitle: 你的博客 | Your Blog
 header-img: img/home-bg.jpg
 email: wanglong7052@gmail.com
-description: nice to meet you ,friends
+description: 'Nice to meet you ,friends'
 keyword: ""
-url: "https://summerboys.github.io"              # your host, for absolute URL
-baseurl: "/blog"         # for example, '/blog' if your blog hosted on 'host/blog'
+url: 'https://summerboys.github.io'             # your host, for absolute URL
+baseurl: '/blog'       # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
